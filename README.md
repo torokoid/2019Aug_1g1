@@ -71,7 +71,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://hamata636.github.io/2019Aug_1g1/20190802_016.jpg) center/cover no-repeat; 
+  background:url(https://torokoid.github.io/2019Aug_1g1/20190802_016.jpg) center/cover no-repeat; 
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -110,7 +110,7 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
 
-<p align="left"> <a href="https://torokoid.github.io/brake_test/" target="_blank"><img src="QR_1g1.png" alt="アクセス用QRコード" width="100"></a><a href="https://torokoid.github.io/2024Jan_Thailand_2/" target="_blank">アクセス用QRコード</a></p>
+<p align="left"> <img src="1g1.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     
