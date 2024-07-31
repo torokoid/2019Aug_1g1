@@ -140,6 +140,8 @@ scrollamount="20">(^_^)/~hada</MARQUEE></P>
 <a href="20190802_016.jpg" target="_blank"><img src="20190802_016.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190802_017.jpg" target="_blank"><img src="20190802_017.jpg" alt="サンプル画像" width="900" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rRFNMGskEPM?si=SLjk79lNp6vlukRC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
